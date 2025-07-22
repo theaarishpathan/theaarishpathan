@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aarish Pathan</h1>
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
 <h3 align="center">A passionate cross-platform app developer and future tech entrepreneur</h3>
 
 ---
@@ -53,9 +53,8 @@
 
 <!-- Update with your actual links -->
 
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/theaarishpathan/))
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
-- 📫 Email: [your.email@example.com](mailto:your.email@example.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/theaarishpathan)
+- 📫 Email: [aarishpathan2004@google.com](mailto:aarishpathan2004@example.com)
 
 ---
 
