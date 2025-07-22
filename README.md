@@ -53,7 +53,7 @@
 
 <!-- Update with your actual links -->
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/theaarishpathan/))
 - 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
 - 📫 Email: [your.email@example.com](mailto:your.email@example.com)
 
